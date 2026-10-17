@@ -1,12 +1,15 @@
 # INTRIVIA 2026 
 
 ## Identitas Diri 
-| Nama Lengkap | NIM | Program Studi | Cluster | 
-|--------------|-----|---------------|---------| 
-| [Nama Lengkap] | [NIM] | [Program Studi] | [Nomor Cluster] | 
+| Nama Lengkap |       NIM       |    Program Studi   | Cluster | 
+|--------------|-----------------|--------------------|---------| 
+| Arvand Cahil | 265150207111094 | Teknik Informatika |   13    | 
 
 ## Kesan Pesan INTRIVIA Sejauh Ini 
-[Tulis kesan dan pesan kamu tentang INTRIVIA 2026 di sini] 
+Sangat informatif 
 
-## Kesan Pesan Cluster [Nomor Cluster] Sejauh Ini 
-[Tulis kesan dan pesan kamu tentang cluster kamu di sini] 
+## Kesan Pesan Cluster 13 Sejauh Ini 
+Mentor dan teman temannya asik
+
+## Harapan Kuliah
+IPK tinggi dan lulus tepat waktu
